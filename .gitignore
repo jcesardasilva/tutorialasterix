@@ -1,3 +1,6 @@
+.DS_Store
+Oversampling_CXDI/__pycache__/
+PXCT/.DS_Store
 .ipynb_checkpoints/
 PXCT/reconstructed_projections.mat
 PXCT/tutorialPXCT_HERCULES.py
