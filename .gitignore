@@ -8,3 +8,5 @@ PXCT/PXCTtomogram.npz
 PXCT/PXCTalignedprojections.npz
 PXCT/PXCTcorrprojections.npz
 ptycho_analysis
+Ptycho/recons/
+da_silva_cement2024.key
